@@ -65,14 +65,3 @@ Ravis-Blog/
 
 📜 **License**: MIT (Open for learning & personal use)  
 
----
-
-### 🎨 Pro Tip:  
-Want to make your README pop?  
-- Use **[Shields.io](https://shields.io)** for cool badges  
-- Add **animated GIFs** for demo visuals  
-- Try **[Readme.so](https://readme.so)** for easy editing  
-
-*(Feel free to customize emojis/colors to match your personality!)*  
-
-
