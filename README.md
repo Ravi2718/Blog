@@ -1,15 +1,13 @@
 
 <h1 align="center">🌟 Ravi's Blog - A Personal Blog Website</h1>
 
-## 🤝 Connect  
+# 🤝 Connect  
 Let's talk tech!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](your-instagram)  
 Welcome to **Ravi's Blog** – a clean, responsive personal blog built with pure **HTML, CSS, and JavaScript**. Perfect for beginners to explore web development fundamentals!  
 
-![Preview](Image/T1.png) **(Add a screenshot here later)***  
-
----
+![Preview](Image/T1.png) 
 
 ## 🚀 Features  
 ✔️ **Mobile-first** responsive design  
@@ -18,14 +16,14 @@ Welcome to **Ravi's Blog** – a clean, responsive personal blog built with pure
 ✔️ Newsletter subscription form  
 ✔️ Social media integration  
 
----
+
 
 ## 🛠 Tech Stack  
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **Icons**: Font Awesome  
 - **Hosting**: GitHub Pages *(Coming Soon)*  
 
----
+
 
 ## 📂 Project Structure  
 ```bash
@@ -39,8 +37,6 @@ Ravis-Blog/
 └── /Image/               # All assets
 ```
 
----
-
 ## 🖥️ Quick Start  
 1. **Clone the repo**  
    ```bash
@@ -50,18 +46,10 @@ Ravis-Blog/
    - Open `index.html` in any browser  
    - *(Recommended)* Use VS Code with **Live Server** extension  
 
----
+
 
 ## 🌱 Future Roadmap  
 - [ ] Add dark mode toggle  
 - [ ] Implement comment section  
 - [ ] Integrate a backend for subscriptions  
-
----
-
-
-
----
-
-📜 **License**: MIT (Open for learning & personal use)  
 
