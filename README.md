@@ -7,7 +7,7 @@ Let's talk tech!
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](your-instagram)  
 Welcome to **Ravi's Blog** – a clean, responsive personal blog built with pure **HTML, CSS, and JavaScript**. Perfect for beginners to explore web development fundamentals!  
 
-![Preview](Image/blog_1.jpg) **(Add a screenshot here later)***  
+![Preview](Image/T1) **(Add a screenshot here later)***  
 
 ---
 
@@ -75,6 +75,4 @@ Want to make your README pop?
 
 *(Feel free to customize emojis/colors to match your personality!)*  
 
---- 
 
-Would you like me to add any specific technical details or design philosophy sections? 😊
